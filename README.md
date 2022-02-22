@@ -40,22 +40,26 @@
    
 **Paquetes**
    
-   **+ Versión de re:**
+   **+ Versión de re:** 
    
-   **+ Versión de pandas:**
+   **+ Versión de pandas:** 1.1.3
    
-   **+ Versión de numpy:**
+   **+ Versión de numpy:** 1.19.2
    
-   **+ Versión de scipy:**
+   **+ Versión de scipy:** 1.5.2
    
-   **+ Versión de matplotlib:**
+   **+ Versión de matplotlib:** 3.3.2
    
-   **+ Versión de csv:**
+   **+ Versión de csv:** 0.14.01
    
-   **+ Versión de Bio:**
+   **+ Versión de Bio:** 1.78
    
    **+ Versión de warnings:**
    
    **+ Versión de os:**
 
 - *Explicación de la data utilizada*
+
+**Ejercicio 1-5:** Para los ejercicios del 1 al 5 se utilizo una data enlazada a pubmed, en la cual seealiza la busqueda a partir que palabras claves y con el módulo miniscience, funcion pubmed_download.
+
+**Ejercicio 6:** Se realizó una busuqeda de un gen en NCBI, del cual se obuvo su Acces List, a partir de este se realizó un arbol filogenético de los primeros 10 resultados.
