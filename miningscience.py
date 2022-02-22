@@ -70,12 +70,13 @@ def mining_pubs(tipo,archivo):
             s=t[-1]   
         AP.append(s)
 
+
     b=0
     AD =[0]*len(AP)
 
     for obj in AP:
         bytes(obj,encoding="utf8")
-        if obj != '.' or '':
+        if obj != '':
             g=obj
             if g[0] == ' ':
                 g = re.sub (r'^\s','',g)
