@@ -38,9 +38,7 @@
 
    **+ Versión de miniscience:** De autoria propia, Version 1
    
-**Paquetes**
-   
-   **+ Versión de re:** 
+   **+ Versión de re:** 3.12.2
    
    **+ Versión de pandas:** 1.1.3
    
@@ -54,12 +52,12 @@
    
    **+ Versión de Bio:** 1.78
    
-   **+ Versión de warnings:**
+   **+ Versión de warnings:** 3.10
    
-   **+ Versión de os:**
+   **+ Versión de os:** 3.10.2
 
 - *Explicación de la data utilizada*
 
 **Ejercicio 1-5:** Para los ejercicios del 1 al 5 se utilizo una data enlazada a pubmed, en la cual seealiza la busqueda a partir que palabras claves y con el módulo miniscience, funcion pubmed_download.
 
-**Ejercicio 6:** Se realizó una busuqeda de un gen en NCBI, del cual se obuvo su Acces List, a partir de este se realizó un arbol filogenético de los primeros 10 resultados.
+**Ejercicio 6:** Se realizó una busuqeda de un gen de la bacteria Shigella dysenteriae en NCBI, del cual se obuvo su Acces List, a partir de este se realizó un arbol filogenético de los primeros 10 resultados. Esta bacteria es conocida pr producir malestares a nivel gastrointestinal.
